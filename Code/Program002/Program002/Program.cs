@@ -60,4 +60,4 @@ num_2 = 20;
 
 sum = num_1 + num_2;
 
-Console.WriteLine(num_1 + " + " + num_2 + " = " + sum); // We can use the concatenation property of strings to display to the Console.
+Console.WriteLine(num_1 + " + " + num_2 + " = " + sum); // We can use the concatenation property of strings to display to the console.
