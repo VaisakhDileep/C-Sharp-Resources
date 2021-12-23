@@ -37,8 +37,8 @@ Console.WriteLine("sizeof(ulong) : {0}", sizeof(ulong));
 
 unsafe // In order to get the size of "nint" and "nuint", we need to use it inside the "unsafe" block.
 {
-    Console.WriteLine("sizeof(nint)  : {0}", sizeof(nint));
-    Console.WriteLine("sizeof(nuint) : {0}\n", sizeof(nuint));
+    Console.WriteLine("sizeof(nint) : {0}", sizeof(nint));
+    Console.WriteLine("sizeof(nuint): {0}\n", sizeof(nuint));
 }
 
 Console.WriteLine("sbyte : [{0}, {1}]", sbyte.MinValue, sbyte.MaxValue);

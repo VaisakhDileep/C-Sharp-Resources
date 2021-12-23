@@ -1,0 +1,15 @@
+C:\Users\vaisa\Study\C-Sharp Resources\Code\Program004\Program004\bin\Debug\net6.0\Program004.exe
+C:\Users\vaisa\Study\C-Sharp Resources\Code\Program004\Program004\bin\Debug\net6.0\Program004.deps.json
+C:\Users\vaisa\Study\C-Sharp Resources\Code\Program004\Program004\bin\Debug\net6.0\Program004.runtimeconfig.json
+C:\Users\vaisa\Study\C-Sharp Resources\Code\Program004\Program004\bin\Debug\net6.0\Program004.dll
+C:\Users\vaisa\Study\C-Sharp Resources\Code\Program004\Program004\bin\Debug\net6.0\ref\Program004.dll
+C:\Users\vaisa\Study\C-Sharp Resources\Code\Program004\Program004\bin\Debug\net6.0\Program004.pdb
+C:\Users\vaisa\Study\C-Sharp Resources\Code\Program004\Program004\obj\Debug\net6.0\Program004.csproj.AssemblyReference.cache
+C:\Users\vaisa\Study\C-Sharp Resources\Code\Program004\Program004\obj\Debug\net6.0\Program004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaisa\Study\C-Sharp Resources\Code\Program004\Program004\obj\Debug\net6.0\Program004.AssemblyInfoInputs.cache
+C:\Users\vaisa\Study\C-Sharp Resources\Code\Program004\Program004\obj\Debug\net6.0\Program004.AssemblyInfo.cs
+C:\Users\vaisa\Study\C-Sharp Resources\Code\Program004\Program004\obj\Debug\net6.0\Program004.csproj.CoreCompileInputs.cache
+C:\Users\vaisa\Study\C-Sharp Resources\Code\Program004\Program004\obj\Debug\net6.0\Program004.dll
+C:\Users\vaisa\Study\C-Sharp Resources\Code\Program004\Program004\obj\Debug\net6.0\ref\Program004.dll
+C:\Users\vaisa\Study\C-Sharp Resources\Code\Program004\Program004\obj\Debug\net6.0\Program004.pdb
+C:\Users\vaisa\Study\C-Sharp Resources\Code\Program004\Program004\obj\Debug\net6.0\Program004.genruntimeconfig.cache
