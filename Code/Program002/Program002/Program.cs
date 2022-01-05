@@ -4,6 +4,18 @@ Date        : 23, November, 2021
 Description : This program helps to understand variables and data types in C#.
 */
 
+/*
+Rules for naming a variable:
+1. variable names must be unique.
+2. variable names can contain letters, digits and underscore('_') only.
+3. variables should start with either a letter or an underscore('_').
+4. variable names cannot be a keyword. We can use reserved keywords as variable name by adding '@' before it.
+*/
+
+int @int = 0; // Here "int" is a reserved keyword, but we can still use it as a variable name by adding '@' before it.
+
+Console.WriteLine("@int: {0}\n", @int);
+
 int int_variable = 0; // Uninitialized int variable will give a build error.
 
 Console.WriteLine("int_variable: {0}", int_variable); // "{n}" will be replaced by the (n+1)'th parameter of the function "Console.WriteLine()" (indexing starts from '0'). "Console.WriteLine()" will automatically add a new line at the end.

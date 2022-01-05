@@ -12,3 +12,4 @@ C:\Users\vaisa\Study\C-Sharp Resources\Code\Program007\Program007\obj\Debug\net6
 C:\Users\vaisa\Study\C-Sharp Resources\Code\Program007\Program007\obj\Debug\net6.0\ref\Program007.dll
 C:\Users\vaisa\Study\C-Sharp Resources\Code\Program007\Program007\obj\Debug\net6.0\Program007.pdb
 C:\Users\vaisa\Study\C-Sharp Resources\Code\Program007\Program007\obj\Debug\net6.0\Program007.genruntimeconfig.cache
+C:\Users\vaisa\Study\C-Sharp Resources\Code\Program007\Program007\obj\Debug\net6.0\Program007.csproj.AssemblyReference.cache

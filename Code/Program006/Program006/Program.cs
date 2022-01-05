@@ -61,7 +61,9 @@ Console.WriteLine("str_4                : {0}", str_4);
 
 Console.WriteLine("str_4.Substring(1, 3): {0}", str_4.Substring(1, 3)); // "Substring()" will return the substring matched. The first argument('1') is the index of the first character to be matched, the second argument('3') is the length of the substring.
 
-Console.WriteLine("str_4.ToUpper()      : {0}\n", str_4.ToUpper()); // "ToUpper()" will return a copy of the string in upper-case. The original string won't be changed.
+Console.WriteLine("str_4.ToUpper()      : {0}", str_4.ToUpper()); // "ToUpper()" will return a copy of the string in upper-case. The original string won't be changed.
+
+Console.WriteLine("str_4.ToLower()      : {0}\n", str_4.ToLower()); // "ToLower()" will return a copy of the string in lower-case. The original string won't be changed.
 
 string str_5 = "cccccccccc";
 
