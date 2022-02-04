@@ -75,11 +75,11 @@ ulong_variable = 4_000L;
 
 ulong_variable = 900_000UL; // We could also use 'Ul', 'uL', 'ul', 'LU', 'Lu', 'lU', 'lu' as suffix. Adding 'UL' as suffix will only make the literal map to "ulong".
 
-int_variable = 0B111011; // We could also use '0b' as prefix. Adding '0B' as prefix will allow us to represent the literal in binary form.
+int_variable = 0B111011; // We could also use '0b'('0B') as prefix. Adding '0b' as prefix will allow us to represent the literal in binary form.
 
 Console.WriteLine("int_variable: {0}", int_variable);
 
-int_variable = 0XFF; // We could use also '0x' as prefix. Adding '0x' as prefix will allow us to represent the literal in hexadecimal form.
+int_variable = 0XFF; // We could use also '0x'('0X') as prefix. Adding '0x' as prefix will allow us to represent the literal in hexadecimal form.
 
 Console.WriteLine("int_variable: {0}\n", int_variable);
 

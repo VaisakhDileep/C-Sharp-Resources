@@ -84,6 +84,6 @@ Console.WriteLine("decimal_variable: {0}", decimal_variable);
 Console.WriteLine("char_variable   : {0}", char_variable);
 Console.WriteLine("bool_variable   : {0}", bool_variable);
 
-int_variable_string = "150$";
+int_variable_string = "150$"; // Note this is not a valid int value.
 
 // int_variable = int.Parse(int_variable_string); // This line of code will give an exception and causes the program to terminate.

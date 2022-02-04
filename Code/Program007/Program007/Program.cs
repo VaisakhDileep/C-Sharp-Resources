@@ -18,7 +18,8 @@ Console.WriteLine(str_2 + '\n');
 
 // Note: We can store a string that contains tabs and new line without using escape characters in verbatim string literal.
 
-string str_3 = @"List:
+string str_3 =
+@"List:
     1. Milk
     2. ""Hide & Seek""
     3. Juice"; // see here we have split the string in multiple lines and also used tabs within the string.

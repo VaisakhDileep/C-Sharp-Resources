@@ -28,7 +28,7 @@ Console.WriteLine("double.PositiveInfinity: {0}\n", double.PositiveInfinity); //
 
 float_variable = 10.0F; // We could also use "10.0f", by default the literal is treated as a double value, we need to explicitly convert it to a float value using the 'F' suffix.
 
-decimal_variable = 10.0M; // We could also use "10.0m", by default the literal is treated as a decimal value, we need to explicitly convert it to a decimal value using the 'M' suffix.
+decimal_variable = 10.0M; // We could also use "10.0m", by default the literal is treated as a double value, we need to explicitly convert it to a decimal value using the 'M' suffix.
 
 double_variable = 10.0; // We could also use "10.0D" or "10.0d".
 
